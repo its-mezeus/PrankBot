@@ -5,7 +5,7 @@ from threading import Thread
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Bot token
-bot = telebot.TeleBot("6014279190:AAEpUHeY6eFStBFAQiYVs8kTpezfJtWVEs4")
+bot = telebot.TeleBot("6008761607:AAFkA5b-xbRR1-FRg8LIjgXL7KweZ9oTwZI")
 
 # Fixed reply image
 REPLY_IMAGE_URL = "https://envs.sh/lg2.jpg"
